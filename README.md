@@ -12,4 +12,6 @@
         </header>
         <img id="banner" src="banner.jpg">
         <div class="principal">
-            <h2 class="titulo-centralizado">sobre barb
+            <h2 class="titulo-centralizado">Sobre a Barbearia Alura</h2>
+
+            <P>Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz pra o mercado o
